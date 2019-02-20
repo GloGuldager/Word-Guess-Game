@@ -1,0 +1,211 @@
+body { 
+    margin: 0; 
+    padding: 0; 
+    background-color: #49240a;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    width: 80vw;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #fff;
+    color: #49240a;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+hr {
+    height: 20px;
+    border-style: none;
+}
+
+#gameContainer {
+    width: 80vw;
+    margin: auto;
+    height: auto;
+    background-color: #fff;
+}
+
+#gameImage {
+    width: 50%;
+    height: 100%;
+    position: relative;
+    float: left;
+}
+#gameInstruction {
+    float: right;
+    width: 50%;
+    height: auto;
+    background-color: #fff;
+    border-color: black;
+    text-align: center;
+}
+
+.p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#letter {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+}
+
+#letterGuess {
+    height: 30px; width: auto;
+    border-style: solid;
+    border-color: orange;
+    /* background-color: #49240a; */
+    color: #fff;  
+}
+#button {
+    height: 30px; width: 30px;
+    /* background-color: #49240a; */
+    color: #fff;
+}
+
+#promptArray {
+    height: 30px; width: auto;
+    border-style: solid;
+    border-color: orange;
+    background-color: #fff;
+    color: #49240a;
+}
+
+#answer {
+    height: 30px; width: auto;
+    border-style: solid;
+    border-color: orange;
+    background-color: #fff;
+    color: #49240a;
+}
+
+#counter {
+    height: 30px; width: auto;
+    border-style: solid;
+    border-color: orange;
+    background-color: #fff;
+    color: #49240a;
+}
+#stat {
+    height: 30px; width: auto;
+    border-style: solid;
+    border-color: orange;
+    background-color: #fff;
+    color:#49240a;
+}
+
+
+/* 
+
+#h2 {
+    padding: 60px;
+}
+
+.gameplay-column {
+    background-color: #fff;
+    padding: 30px;
+}
+
+#pageTitle {
+    height: 50px;
+    margin: auto;
+    margin-top: 50px;
+    color: #fff;
+    font-size: 36px;
+    width: 800px;
+    border-bottom: solid white 1px;
+}
+
+#gameContent {
+    margin:auto;
+    width: 800px;
+    height: 400px;
+    position: relative;
+    overflow: hidden;
+    background-color: #3498DB;
+}
+
+
+#gameName {
+    margin-top: 100px;
+    text-align: center;
+    font-size: 40px;
+    color: #fff;
+}
+
+.button {font-size:17px;
+    width: 100px;
+    margin:auto;
+    margin-top: 20px;
+    cursor: pointer;
+    border: solid 1px white;
+    border-radius: 4px;
+    text-align: center;
+    color: #fff;
+}
+
+.button: hover {
+    background-color: #6AB0FD;
+}
+
+#replay {
+    margin-left: 0px;
+}
+#wordBox {
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+#clueBox {
+    margin-top: 130px;
+    margin-left: 150px;
+}
+
+#lettersGuessed {
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+#picBox {
+    margin-left: 30px;
+    width:75px;
+    float: left;
+    overflow: hidden;
+}
+
+#feedback {
+    margin-top: 20px;
+    margin-left: 150px;
+    font-size: 34px;
+    color: #fff;
+}
+
+.tile {
+    height: 40px;
+    width: 40px;
+    float: left;
+    margin-right: 10px;
+    background-color: white;
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+    padding-top: 5px;
+}
+
+.gameOver {
+    text-align: center;
+    font-size: 40px;
+    color: #fff;
+    width: 90%;
+    margin: auto;
+    margin-top:100px;
+}
+
+#mobile {
+    position: absolute;
+    left: -200px;
+    top: 0px;
+} */
